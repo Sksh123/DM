@@ -1,0 +1,7 @@
+apple,banana,grapes,pgranate,carrot
+apple,,grapes,pgranate,
+,banana,,,carrot
+apple,,,pgranate,
+,banana,grapes,,carrot
+apple,,,pgranate,
+apple,banana,,pgranate,carrot
